@@ -1,5 +1,5 @@
 {
-  "name": "@jimchan/spine-threejs",
+  "name": "@schiznitz/spine-threejs",
   "version": "4.0.19",
   "description": "",
   "main": "dist/index.js",
@@ -30,7 +30,9 @@
   },
   "homepage": "https://github.com/schiznitz/spine-threejs#readme",
   "dependencies": {
-    "@esotericsoftware/spine-core": "^4.0.19",
+    "@esotericsoftware/spine-core": "^4.0.19"
+  },
+  "devDependencies": {
     "@types/three": "^0.137.0",
     "three": "^0.137.4"
   }
